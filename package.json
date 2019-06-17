@@ -24,5 +24,8 @@
     "lodash": "^4.17.11",
     "moment-round": "^1.0.1",
     "socket.io": "^2.2.0"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
