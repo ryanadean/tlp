@@ -19,9 +19,11 @@
     "eslint-plugin-vue": "^5.2.2"
   },
   "dependencies": {
+    "chai": "^4.2.0",
     "date-and-time": "^0.6.3",
     "express": "^4.16.4",
     "lodash": "^4.17.11",
+    "mocha": "^6.1.4",
     "moment": "^2.24.0",
     "moment-range": "^4.0.2",
     "moment-round": "^1.0.1",
