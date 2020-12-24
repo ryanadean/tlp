@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "chai": "^4.2.0",
-    "date-and-time": "^0.6.3",
+    "date-and-time": "^0.14.2",
     "express": "^4.16.4",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
